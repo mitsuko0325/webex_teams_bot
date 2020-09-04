@@ -1,7 +1,7 @@
 # webex_teams_bot
 webex teams bot sample
 
-# Run server
+# Build Backend
 - npm start
 
 # Build frontend
